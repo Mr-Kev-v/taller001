@@ -22,7 +22,7 @@ public class ObjetoPR {
     
     public void metodoParaPR(){
         //TODO: hagan código aquí :)
-        int conflicto = 0;
+        int conflicto = -1;
     }
     
 }
