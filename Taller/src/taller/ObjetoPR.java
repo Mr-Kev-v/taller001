@@ -26,7 +26,7 @@ public class ObjetoPR {
         //TODO: hagan código aquí :)
 <<<<<<< HEAD
         int conflicto = -1111313;
-        JOptionPane.showMessageDialog(null, "PRO ACTU");
+        JOptionPane.showMessageDialog(null, "PRO ACTUuu");
 
 =======
         String conflicto = "Hi";
